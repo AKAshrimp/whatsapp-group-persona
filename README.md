@@ -1,7 +1,7 @@
 # 朋友 Skill
 
 把溫暖的群友，變成冷冰冰的 skill。  
-靈感來自 ex skill，但這次不翻舊情，只翻群聊語氣。
+靈感來自 前任 skill，但這次不翻舊情，只翻群聊語氣。
 
 朋友 Skill 是一個 WhatsApp 群友 persona 框架，把群聊裡的短句、笑位、emoji、語氣和熟人感，蒸餾成 chatbot / RAG / agent 可用的安全 skill。
 
